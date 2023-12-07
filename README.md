@@ -17,8 +17,8 @@
 
 ## Links
 
-- Solution URL: https://github.com/Antho137/passwords-generator
-- Live Site URL: https://antho137.github.io/passwords-generator/
+- Solution URL: https://github.com/Antho137/password-generator
+- Live Site URL: https://antho137.github.io/password-generator/
 
 ## Author
 
